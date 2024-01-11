@@ -3,7 +3,7 @@ Hello 👋
 * 👨‍🦱JB here!! i'm  software developer 
 * 🌍  I'm based in Ethiopian, Addis Ababa
 * 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
-* ⚡ I love 🏀⛹️‍♀️ and a fan Mancity
+* ⚡ I love 🏀⛹️‍♀️ and a fan of Mancity
   
 ### Skills
 
