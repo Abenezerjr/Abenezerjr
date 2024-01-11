@@ -4,14 +4,12 @@ software developer
 ------------------
 
 * 🌍  I'm based in Ethiopian, Addis Ababa
-* ✉️  You can contact me at [alemayehuabenezer14@gmail.com](mailto:alemayehuabenezer14@gmail.com)
+* ✉️  You can contact me at [Abenezer Alemayhu](mailto:alemayehuabenezer14@gmail.com)
 * 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
-* 🧠  I'm learning blockchain(solidity) web3 
-
+  
 ### Skills
 
 * 🐍 python  "i used all day" | * 😍 Django |* 🈸 Rest API* |🥵 React("some times") * | * ⛴️ Docker | 👨‍🚀 * Postman ......
-
 
 ### Socials
 * you can find me [Instagram](https://www.instagram.com/abenezerj01) and [Linkedln](www.linkedin.com/in/abenezer-alemayehu0) 
