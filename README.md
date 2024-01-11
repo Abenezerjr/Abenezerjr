@@ -1,6 +1,5 @@
-Hi 👋 My name is Abenezer Alemayehu
+Hello 👋 i'm Abenezer Alemayehu
 ===================================
-
 software developer
 ------------------
 
