@@ -6,8 +6,8 @@ software developer
 
 * 🌍  I'm based in Addis Ababa, City
 * ✉️  You can contact me at [alemayehuabenezer14@gmail.com](mailto:alemayehuabenezer14@gmail.com)
-* 🚀  I'm currently working on [Turing](http://turing.com)
-* 🧠  I'm learning blockchain(solidity)
+* 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
+* 🧠  I'm learning blockchain(solidity) web3 
 
 ### Skills
 
@@ -19,7 +19,9 @@ software developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Abenezerjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abenezer-alemayehu0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+* <p> you can find me [Instagram]![GlitchInstaGIF](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/09cf3363-bc33-4b96-ae08-87a77141eb36)
+](https://www.instagram.com/abenezerj01) and {Linkedln](www.linkedin.com/in/
+abenezer-alemayehu0) </p>
 
 ### Badges
 
