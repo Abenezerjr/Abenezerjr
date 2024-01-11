@@ -18,10 +18,8 @@ software developer
 * 🥵 React
 
 ### Socials
-
-* <p> you can find me [Instagram]![GlitchInstaGIF](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/09cf3363-bc33-4b96-ae08-87a77141eb36)
-](https://www.instagram.com/abenezerj01) and {Linkedln](www.linkedin.com/in/
-abenezer-alemayehu0) </p>
+* you can find me [Instagram]![GlitchInstaGIF](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/09cf3363-bc33-4b96-ae08-87a77141eb36)
+](https://www.instagram.com/abenezerj01) and [Linkedln](www.linkedin.com/in/abenezer-alemayehu0) 
 
 ### Badges
 
