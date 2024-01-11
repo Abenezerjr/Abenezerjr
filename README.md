@@ -18,7 +18,7 @@ software developer
 * 🥵 React
 
 ### Socials
-* you can find me [Instagram]![GlitchInstaGIF](https://www.instagram.com/abenezerj01) and [Linkedln](www.linkedin.com/in/abenezer-alemayehu0) 
+* you can find me [Instagram](https://www.instagram.com/abenezerj01) and [Linkedln](www.linkedin.com/in/abenezer-alemayehu0) 
 
 ### Badges
 
