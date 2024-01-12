@@ -10,7 +10,9 @@ Hello 👋
 * 🐍 python  "i used all day" | * 😍 Django |* 🈸 Rest API* |🥵 React("some times") * | * ⛴️ Docker | 👨‍🚀 * Postman ......
 
 ### Socials
-* you can find me [Instagram](https://www.instagram.com/abenezerj01)| [Linkedln](www.linkedin.com/in/abenezer-alemayehu0) |✉️[Email](mailto:alemayehuabenezer14@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/abenezer-alemayehu0)
+[<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://www.instagram.com/abenezerj01)
+[<img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](mailto:alemayehuabenezer14@gmail.com)
 
 <a href="http://www.github.com/Abenezerjr"><img src="https://github-readme-stats.vercel.app/api?username=Abenezerjr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="Abenezerjr's GitHub stats" /></a>
 <a href="https://github.com/Abenezerjr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezerjr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
