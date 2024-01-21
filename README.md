@@ -4,6 +4,8 @@ Hello 👋
 * 🌍  I'm based in Ethiopian, Addis Ababa
 * 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
 * ⚡ I love 🏀⛹️‍♀️ and a fan of Mancity
+
+* 🚀 my website  [Portfolio](https://abenezerjr.github.io/Abenezer/)
   
 ### Skills
 
@@ -14,5 +16,4 @@ Hello 👋
 [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=orange" />](https://www.instagram.com/abenezerj01)
 [<img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=Blueberry" />](mailto:alemayehuabenezer14@gmail.com)
 
-* 🚀 my website  [Portfolio](https://abenezerjr.github.io/Abenezer/)
 
