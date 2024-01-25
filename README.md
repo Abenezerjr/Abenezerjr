@@ -1,5 +1,6 @@
 Hello 👋 
-----![Your paragraph text (4)](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/0baaac57-b21a-43d7-bebd-5034528add67)
+
+![Your paragraph text (4)](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/0baaac57-b21a-43d7-bebd-5034528add67)
 
 * 👨‍🦱JB here!! i'm  software developer 
 * 🌍  I'm based in Ethiopian, Addis Ababa
