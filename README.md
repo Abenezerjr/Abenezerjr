@@ -9,10 +9,6 @@ HI 👋 im Abenezere
 * ⚡ I love 🏀⛹️‍♀️ and a fan of Mancity
 * 🚀 my website  [Portfolio](https://abenezerjr.github.io/Abenezer/)
   
-### Skills
-
-* 🐍 python  "i used all day" | * 😍 Django |* 🈸 Rest API* |🥵 React("some times") * | * ⛴️ Docker | 👨‍🚀 * Postman ......
-
 ### Socials
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/abenezer-alemayehu0)
 [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=orange" />](https://www.instagram.com/abenezerj01)
