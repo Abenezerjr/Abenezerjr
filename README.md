@@ -1,5 +1,6 @@
 Hello 👋 
 ----
+[<img src="https://github.com/Abenezerjr/Abenezerjr/blob/main/Your%20paragraph%20text%20(4).png" alt='my page/>]
 * 👨‍🦱JB here!! i'm  software developer 
 * 🌍  I'm based in Ethiopian, Addis Ababa
 * 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
