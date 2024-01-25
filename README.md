@@ -1,12 +1,12 @@
-Hello 👋 
+HI 👋 im Abenezere
 
-![Your paragraph text (4)](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/0baaac57-b21a-43d7-bebd-5034528add67)
 
-* 👨‍🦱JB here!! i'm  software developer 
+![Your paragraph text (4) (1) (1)](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/b403e5b6-efaf-4e9d-a83c-3e0bc917f3df)
+
+* 👨‍💻 i'm  software developer 
 * 🌍  I'm based in Ethiopian, Addis Ababa
-* 🚀  I'm currently working on [Turing](http://turing.com) Backend dev
+* 🧐  currently I'm study  ReactJs
 * ⚡ I love 🏀⛹️‍♀️ and a fan of Mancity
-
 * 🚀 my website  [Portfolio](https://abenezerjr.github.io/Abenezer/)
   
 ### Skills
