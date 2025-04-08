@@ -5,7 +5,7 @@ HI 👋 im Abenezere
 
 * 👨‍💻 i'm  software engineering
 * 🌍  I'm based in Ethiopian, Addis Ababa
-* 🧐  currently I'm study  ReactJs
+* 🧐  currently I'm study  ML
 * ⚡ I love 🏀⛹️‍♀️ and a fan of Mancity
 * 🚀 my website  [Portfolio](https://abenezerjr.github.io/Abenezer/)
   
