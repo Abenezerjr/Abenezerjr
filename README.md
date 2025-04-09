@@ -1,8 +1,5 @@
 HI 👋 im Abenezere
 
-
-![Your paragraph text (4) (1) (1)](https://github.com/Abenezerjr/Abenezerjr/assets/106702572/b403e5b6-efaf-4e9d-a83c-3e0bc917f3df)
-
 * 👨‍💻 i'm  software engineering
 * 🌍  I'm based in Ethiopian, Addis Ababa
 * 🧐  currently I'm study  ML
